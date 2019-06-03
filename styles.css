@@ -1,6 +1,7 @@
 body{
 	background-color: gray;
 	background-image: url(20190530_100155-COLLAGE~2.jpg);
+	background-repeat: repeat-x;
 	margin: 0px;
 	padding: 0px;
 }
