@@ -62,7 +62,11 @@ body{
 }
 
 @media screen and (max-width: 780px){
-  .header {
-	  height: 100px;
-	}	
+  	.header {
+		height: 100px;
+	}
+	body{
+		background-image: url(20190530_100155-COLLAGE~2.jpg);
+		background-size: auto;
+	}
 }
