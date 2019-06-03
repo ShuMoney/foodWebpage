@@ -1,19 +1,11 @@
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 600px) {
   .header {
 	  height: 125px;
 	  background-color: gray;
 	}	
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {
-	  padding-top: 15px;
-	}
-  .sidenav a {
-	  font-size: 18px;
-	}
-}
 
 
 body{
