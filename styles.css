@@ -15,12 +15,14 @@ body{
 	padding: 0px;
 }
 
-.header{
-	text-align: center;
-	height: 50px;
-	margin: 0px;
-	padding: 15px;
-	background-color : white;
+@media screen and (min-width: 601px) {
+	.header{
+		text-align: center;
+		height: 50px;
+		margin: 0px;
+		padding: 15px;
+		background-color : white;
+	}
 }
 
 .sidenav {
