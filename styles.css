@@ -64,6 +64,6 @@ body{
 @media screen and (max-width: 780px) {
   .header {
 	  height: 125px;
-	  background-color: gray;
+	  background-color: red;
 	}	
 }
