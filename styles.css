@@ -63,7 +63,7 @@ body{
 
 @media screen and (max-width: 780px){
   	.header {
-		height: 80px;
+		height: 65px;
 	}
 	body{
 		background-image: url(20190530_100155-COLLAGE~2.jpg);
