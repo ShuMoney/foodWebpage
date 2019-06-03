@@ -68,6 +68,7 @@ body{
 	body{
 		background-image: url(20190530_100155-COLLAGE~2.jpg);
 		background-size: cover;
+		background-attachment: fixed;
 	}
 	#menuLink {
 	font-size: 40px;
