@@ -67,6 +67,6 @@ body{
 	}
 	body{
 		background-image: url(20190530_100155-COLLAGE~2.jpg);
-		background-size: auto;
+		background-size: cover;
 	}
 }
